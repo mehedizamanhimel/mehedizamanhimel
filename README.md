@@ -2,7 +2,7 @@
 
 # Md. Mehedi Zaman Himel
 
-**Senior Software QA Engineer · Test Automation Specialist**
+**Senior Software QA Engineer · Software Testing Lead · Test Automation Specialist**
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🏢 Grameenphone Ltd. &nbsp;|&nbsp; 🔍 Open to Senior QA / SDET Opportunities
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Software QA Engineer with **7+ years of experience** designing and building test automation frameworks from scratch. I specialise in eliminating manual regression bottlenecks through robust, maintainable automation — covering Web UI, REST APIs, and Mobile platforms.
+I'm a Software QA Engineer with **12+ years of experience** designing and building test automation frameworks from scratch. I specialise in eliminating manual regression bottlenecks through robust, maintainable automation — covering Web UI, REST APIs, and Mobile platforms.
 
 I work at **Grameenphone Ltd.** (Telenor Group), Bangladesh's largest telecom operator, where I drive quality assurance across mission-critical digital products.
 
